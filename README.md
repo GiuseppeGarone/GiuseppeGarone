@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @GiuseppeGarone
-- 👀 I’m interested in process automation
+- 👀 I’m interested in process automation for 3D CGI pipelines
 - 🏫 MSc Cinema and Media Engineering - Polytechnic University of Turin
-- 🌱 I’m currently learning Python, Bash, RegEx, Unix OS
+- 🌱 Always improving my Python programming skills and 3D knowledge
+- 🗒️ Currently learning Bash Scripting, Linux OS and Docker
 - 📜 Google IT Automation with Python - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FZWU5CRTTPCC)
 - 📫 giuseppe.garone.1992@gmail.com
 
