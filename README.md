@@ -8,7 +8,7 @@
 - Tools: Git, Jenkins, Confluence
 
 ### Certifications
-- Google IT Automation with Python - [View Certificate]([https://www.coursera.org/account/accomplishments/specialization/certificate/FZWU5CRTTPCC](https://www.credly.com/badges/7272684d-d449-479d-9f9b-d029e3a420e8/public_url))
+- (2022) Google IT Automation with Python - [View Certificate](https://www.credly.com/badges/7272684d-d449-479d-9f9b-d029e3a420e8/public_url)
 
 ### Education
 - (2017) MSc Cinema and Media Engineering - Polytechnic University of Turin
