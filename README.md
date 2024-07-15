@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @GiuseppeGarone
-- 👀 I’m interested in process automation for 3D CGI pipelines
-- 🏫 MSc Cinema and Media Engineering - Polytechnic University of Turin
-- 🌱 Always improving my Python programming skills and 3D knowledge
-- 🗒️ Currently learning Bash Scripting, Linux OS and Docker
-- 📜 Google IT Automation with Python - [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FZWU5CRTTPCC)
-- 📫 giuseppe.garone.1992@gmail.com
+👋 Hi, I’m @GiuseppeGarone
+
+### Work Experience
+- (2018-present) Software Developer @ Protocube Reply
+
+### Technical Skills
+- Programming: Python, Bash, JavaScript, Docker, AWS Cloud, Django, Poetry
+- Tools: Git, Jenkins, Confluence
+
+### Certifications
+- Google IT Automation with Python - [View Certificate]([https://www.coursera.org/account/accomplishments/specialization/certificate/FZWU5CRTTPCC](https://www.credly.com/badges/7272684d-d449-479d-9f9b-d029e3a420e8/public_url))
+
+### Education
+- (2017) MSc Cinema and Media Engineering - Polytechnic University of Turin
 
 <!---
 GiuseppeGarone/GiuseppeGarone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
