@@ -4,7 +4,7 @@
 - (2018-present) Software Developer @ Protocube Reply
 
 ### Technical Skills
-- Programming: Python, Bash, JavaScript, Docker, AWS Cloud, Django, Poetry
+- Programming: Python, Bash, JavaScript, Docker, AWS, Django, Poetry
 - Tools: Git, Jenkins, Confluence
 
 ### Certifications
